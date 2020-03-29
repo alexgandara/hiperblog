@@ -1,0 +1,9 @@
+
+
+este es un cuento hermoso sobre la vida de los gnomos
+esto lo escribo para enseyo de git
+
+version1
+
+
+
